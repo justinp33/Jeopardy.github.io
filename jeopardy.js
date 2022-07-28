@@ -52,7 +52,7 @@ getCategoryIds();
  *   ]
  */
 
-function getCategory(catId) {
+async function getCategory(catId) {
 }
 
 /** Fill the HTML table#jeopardy with the categories & cells for questions.
